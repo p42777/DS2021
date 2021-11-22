@@ -15,7 +15,6 @@ public class GeomProgression<T extends Number> extends Progression<T>{
 		    Integer erasedValue= a.intValue() * b.intValue();
 		    return (T)erasedValue;
 		}
-		// You need to fill this method with Double.
 	
 		else if(a instanceof Double){
 			Double erasedValue = a.doubleValue() * b.doubleValue();
