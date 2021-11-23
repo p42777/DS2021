@@ -44,18 +44,3 @@ public class MyStack<T> {
 
 
 
-/*
-if(n==1) {
-move(src, dest);
-}
-else {
-execute(n-1,src,spare,dest);
-}
-
-StringBuilder sb = new StringBuilder();
-		//sb.append();
-		for(int i = 0 ; i < list.size(); i++) {
-			sb.append(list.get(i) + "");
-		}
-		System.out.println(getName() + "|-" +sb);
-*/
