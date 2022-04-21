@@ -1,0 +1,6 @@
+38.5
+[MIS,2,1.2] [UCSB,2,2.2]
+[Yu,5,1.2]
+[Badminton,4,2.3]
+[Structure,4,2.1]
+InvalidOperation
